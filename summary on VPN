@@ -1,0 +1,29 @@
+VPN Benefits and Limitations:
+
+A "VPN (Virtual Private Network)" helps protect your privacy and secure your internet traffic by encrypting the data between your device and the VPN server. This hides your real IP address and makes it harder for websites, internet providers, or hackers to track your online activity.
+
+During setup, I used a free VPN client (Windscribe) and connected to a VPN server. After connection, I verified my IP address had changed and visited websites using HTTPS to confirm my traffic was encrypted. Even if the browser didn’t show a padlock, the URL began with `https://`, which indicates that the connection is secure.
+
+---
+
+Benefits of Using a VPN:
+
+* Hides your real IP address
+* Encrypts your internet traffic
+* Protects your data on public Wi-Fi
+* Allows access to region-restricted content
+
+---
+
+Limitations of VPNs:
+
+* Can slow down your internet speed
+* Free versions may have limited servers or data
+* Doesn’t guarantee full anonymity
+* Some websites may block VPN traffic
+* If the VPN provider logs data, your privacy could still be at risk
+
+---
+
+Overall, using a VPN is a useful tool for "enhancing privacy", especially when combined with HTTPS websites. However, it's not a complete solution, and users should still be cautious online.
+
